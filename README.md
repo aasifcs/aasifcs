@@ -18,7 +18,7 @@ Other Skills: RESTful APIs, Software Design Patterns, Object-Oriented Programmin
 
 📌 Projects
 
-🔹 ToDo Application - Developed a full-stack ToDo application using Spring Boot, MySQL, JPA Data, and JSP.🔹 MaharashtraSyllabus.com - Built and managed an educational blog with 3.4M+ views, focusing on SEO and content optimization.🔹 DoMockTest - Created a mock test platform for NEET, CET, and aptitude exams using WordPress CMS.
+🔹 CRUD Application - Created Crud Application using Asp Core and Entity Framework with Swagger
 
 📫 Connect with Me
 
